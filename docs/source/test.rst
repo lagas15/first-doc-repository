@@ -1,10 +1,13 @@
-TEST
+Test
 =====
 
 .. _installation:
 
-Installation
-------------
+Installation-test
+-----------------
 
-To use Lumache, first install it using pip:
+To use Lumache, first install it ss
 
+.. code-block:: console
+
+   (.venv) $ pip install lumache
