@@ -17,5 +17,6 @@ https://fmarco76.github.io/git%20and%20related%20services/readthedocs
 
 - cd docs/source
 - git submodule add https://github.com/lagas15/second-doc-repository-
+- setup branch in .gitmodules
 - git submodule update --remote
 - update docs/source/index.rst ex: second-doc-repository-/docs/sphinx/index
