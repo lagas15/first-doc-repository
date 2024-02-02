@@ -1,3 +1,4 @@
 [submodule "docs/source/second-doc-repository-"]
 	path = docs/source/second-doc-repository-
 	url = https://github.com/lagas15/second-doc-repository-
+	branch = master
